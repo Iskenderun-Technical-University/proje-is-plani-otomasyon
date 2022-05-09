@@ -20,6 +20,12 @@ namespace ilk
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("selam");
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("oldula");
         }
     }
 }
