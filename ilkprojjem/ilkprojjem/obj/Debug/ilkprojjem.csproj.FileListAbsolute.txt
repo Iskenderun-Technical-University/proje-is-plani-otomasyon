@@ -1,0 +1,10 @@
+C:\Users\sinan\OneDrive\Masaüstü\deneme\proje-is-plani-otomasyon\ilkprojjem\ilkprojjem\bin\Debug\ilkprojjem.exe.config
+C:\Users\sinan\OneDrive\Masaüstü\deneme\proje-is-plani-otomasyon\ilkprojjem\ilkprojjem\bin\Debug\ilkprojjem.exe
+C:\Users\sinan\OneDrive\Masaüstü\deneme\proje-is-plani-otomasyon\ilkprojjem\ilkprojjem\bin\Debug\ilkprojjem.pdb
+C:\Users\sinan\OneDrive\Masaüstü\deneme\proje-is-plani-otomasyon\ilkprojjem\ilkprojjem\obj\Debug\ilkprojjem.csprojAssemblyReference.cache
+C:\Users\sinan\OneDrive\Masaüstü\deneme\proje-is-plani-otomasyon\ilkprojjem\ilkprojjem\obj\Debug\ilkprojjem.Form1.resources
+C:\Users\sinan\OneDrive\Masaüstü\deneme\proje-is-plani-otomasyon\ilkprojjem\ilkprojjem\obj\Debug\ilkprojjem.Properties.Resources.resources
+C:\Users\sinan\OneDrive\Masaüstü\deneme\proje-is-plani-otomasyon\ilkprojjem\ilkprojjem\obj\Debug\ilkprojjem.csproj.GenerateResource.cache
+C:\Users\sinan\OneDrive\Masaüstü\deneme\proje-is-plani-otomasyon\ilkprojjem\ilkprojjem\obj\Debug\ilkprojjem.csproj.CoreCompileInputs.cache
+C:\Users\sinan\OneDrive\Masaüstü\deneme\proje-is-plani-otomasyon\ilkprojjem\ilkprojjem\obj\Debug\ilkprojjem.exe
+C:\Users\sinan\OneDrive\Masaüstü\deneme\proje-is-plani-otomasyon\ilkprojjem\ilkprojjem\obj\Debug\ilkprojjem.pdb
