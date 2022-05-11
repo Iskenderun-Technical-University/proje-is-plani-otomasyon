@@ -29,3 +29,13 @@ C:\Users\sinan\OneDrive\Masaüstü\ilk\ilk\obj\Debug\ilk.csproj.GenerateResource
 C:\Users\sinan\OneDrive\Masaüstü\ilk\ilk\obj\Debug\ilk.csproj.CoreCompileInputs.cache
 C:\Users\sinan\OneDrive\Masaüstü\ilk\ilk\obj\Debug\ilk.exe
 C:\Users\sinan\OneDrive\Masaüstü\ilk\ilk\obj\Debug\ilk.pdb
+C:\Users\lenovo\Desktop\proje-is-plani-otomasyon\ilk\ilk\bin\Debug\ilk.exe.config
+C:\Users\lenovo\Desktop\proje-is-plani-otomasyon\ilk\ilk\bin\Debug\ilk.exe
+C:\Users\lenovo\Desktop\proje-is-plani-otomasyon\ilk\ilk\bin\Debug\ilk.pdb
+C:\Users\lenovo\Desktop\proje-is-plani-otomasyon\ilk\ilk\obj\Debug\ilk.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\proje-is-plani-otomasyon\ilk\ilk\obj\Debug\ilk.Form1.resources
+C:\Users\lenovo\Desktop\proje-is-plani-otomasyon\ilk\ilk\obj\Debug\ilk.Properties.Resources.resources
+C:\Users\lenovo\Desktop\proje-is-plani-otomasyon\ilk\ilk\obj\Debug\ilk.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\proje-is-plani-otomasyon\ilk\ilk\obj\Debug\ilk.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\proje-is-plani-otomasyon\ilk\ilk\obj\Debug\ilk.exe
+C:\Users\lenovo\Desktop\proje-is-plani-otomasyon\ilk\ilk\obj\Debug\ilk.pdb
