@@ -36,3 +36,17 @@ C:\Users\sinan\OneDrive\Masaüstü\is_takip\otomasyon\3) Çalışan Sayfası\1) 
 C:\Users\sinan\OneDrive\Masaüstü\is_takip\otomasyon\3) Çalışan Sayfası\1) yöneticiden gelen işler\is_takip_programi\is_takip_programi\obj\Debug\is_takip_programi.csproj.CoreCompileInputs.cache
 C:\Users\sinan\OneDrive\Masaüstü\is_takip\otomasyon\3) Çalışan Sayfası\1) yöneticiden gelen işler\is_takip_programi\is_takip_programi\obj\Debug\is_takip_programi.exe
 C:\Users\sinan\OneDrive\Masaüstü\is_takip\otomasyon\3) Çalışan Sayfası\1) yöneticiden gelen işler\is_takip_programi\is_takip_programi\obj\Debug\is_takip_programi.pdb
+C:\Users\sinan\OneDrive\Masaüstü\proje-is-plani-otomasyon\is_takip_programi\is_takip_programi\bin\Debug\is_takip_programi.exe.config
+C:\Users\sinan\OneDrive\Masaüstü\proje-is-plani-otomasyon\is_takip_programi\is_takip_programi\bin\Debug\is_takip_programi.exe
+C:\Users\sinan\OneDrive\Masaüstü\proje-is-plani-otomasyon\is_takip_programi\is_takip_programi\bin\Debug\is_takip_programi.pdb
+C:\Users\sinan\OneDrive\Masaüstü\proje-is-plani-otomasyon\is_takip_programi\is_takip_programi\obj\Debug\is_takip_programi.csprojAssemblyReference.cache
+C:\Users\sinan\OneDrive\Masaüstü\proje-is-plani-otomasyon\is_takip_programi\is_takip_programi\obj\Debug\is_takip_programi.CalisanEkle.resources
+C:\Users\sinan\OneDrive\Masaüstü\proje-is-plani-otomasyon\is_takip_programi\is_takip_programi\obj\Debug\is_takip_programi.CalisanSayfasi.resources
+C:\Users\sinan\OneDrive\Masaüstü\proje-is-plani-otomasyon\is_takip_programi\is_takip_programi\obj\Debug\is_takip_programi.GirisEkrani.resources
+C:\Users\sinan\OneDrive\Masaüstü\proje-is-plani-otomasyon\is_takip_programi\is_takip_programi\obj\Debug\is_takip_programi.KayitEkrani.resources
+C:\Users\sinan\OneDrive\Masaüstü\proje-is-plani-otomasyon\is_takip_programi\is_takip_programi\obj\Debug\is_takip_programi.Properties.Resources.resources
+C:\Users\sinan\OneDrive\Masaüstü\proje-is-plani-otomasyon\is_takip_programi\is_takip_programi\obj\Debug\is_takip_programi.YöneticiSayfasi.resources
+C:\Users\sinan\OneDrive\Masaüstü\proje-is-plani-otomasyon\is_takip_programi\is_takip_programi\obj\Debug\is_takip_programi.csproj.GenerateResource.cache
+C:\Users\sinan\OneDrive\Masaüstü\proje-is-plani-otomasyon\is_takip_programi\is_takip_programi\obj\Debug\is_takip_programi.csproj.CoreCompileInputs.cache
+C:\Users\sinan\OneDrive\Masaüstü\proje-is-plani-otomasyon\is_takip_programi\is_takip_programi\obj\Debug\is_takip_programi.exe
+C:\Users\sinan\OneDrive\Masaüstü\proje-is-plani-otomasyon\is_takip_programi\is_takip_programi\obj\Debug\is_takip_programi.pdb
