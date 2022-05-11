@@ -27,5 +27,12 @@ namespace ilk
         {
             MessageBox.Show("oldula");
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            int a = 10;
+            int b = 20;
+            MessageBox.Show((a + b).ToString());
+        }
     }
 }
