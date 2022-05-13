@@ -27,5 +27,17 @@ namespace is_takip_programi
             YoneticiyeGeriBildirim yeni = new YoneticiyeGeriBildirim();
             yeni.Show();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            C_Tamamlananİsler yeni = new C_Tamamlananİsler();
+            yeni.Show();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            C_Tamamlananİsler yeni = new C_Tamamlananİsler();
+            yeni.Show();
+        }
     }
 }
