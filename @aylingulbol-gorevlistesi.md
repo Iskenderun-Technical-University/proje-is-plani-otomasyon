@@ -4,11 +4,11 @@
 - [ ] 2. Yöneticiden gelen işlerin görüntülüceği sayfa (11.05.2022)
 - [ ] 3. Yöneticiye geri bildirim yapılacagı sayfa (12.05.2022)
 - [ ] 4. Çalışanın geçmişte yaptığı işlerin görüntüeneceği sayfa (13.05.2022)
-- [ ] 5. Müşteri bilgilerinin görüntüleceği sayfa (16.05.2022)
+- [ ] 5. Müşteri bilgilerinin görüntüleceği sayfa (18.05.2022)
  
                                              Veritabanının Oluşturulması @aylingulbol
  
- - [ ] 1.Veritabanı taslağının oluşturulması (18.05.2022)
+ - [ ] 1.Veritabanı taslağının oluşturulması (19.05.2022)
  
                                        Projenin Kodlanması ( Çalışan sayfası ) @aylingulbol
                                        
