@@ -39,5 +39,11 @@ namespace is_takip_programi
             C_Tamamlananİsler yeni = new C_Tamamlananİsler();
             yeni.Show();
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            MusteriBilgileri yeni = new MusteriBilgileri();
+            yeni.Show();
+        }
     }
 }
