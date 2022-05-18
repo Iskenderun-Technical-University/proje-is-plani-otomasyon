@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CalisandanGelenBildirim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CalisandanGelenBildirim.Designer.cs">
+      <DependentUpon>CalisandanGelenBildirim.cs</DependentUpon>
+    </Compile>
     <Compile Include="CalisanEkle.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -102,6 +108,9 @@
     <Compile Include="YöneticiSayfasi.Designer.cs">
       <DependentUpon>YöneticiSayfasi.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="CalisandanGelenBildirim.resx">
+      <DependentUpon>CalisandanGelenBildirim.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="CalisanEkle.resx">
       <DependentUpon>CalisanEkle.cs</DependentUpon>
     </EmbeddedResource>

@@ -70,3 +70,6 @@ C:\Users\sinan\OneDrive\Masaüstü\proje-is-plani-otomasyon\is_takip_programi\is
 C:\Users\lenovo\Desktop\proje-is-plani-otomasyon\is_takip_programi\is_takip_programi\obj\Debug\is_takip_programi.C_Tamamlananİsler.resources
 C:\Users\lenovo\Desktop\proje-is-plani-otomasyon\is_takip_programi\is_takip_programi\obj\Debug\is_takip_programi.DevamEdenİsler.resources
 C:\Users\lenovo\Desktop\proje-is-plani-otomasyon\is_takip_programi\is_takip_programi\obj\Debug\is_takip_programi.MüsteriEkle.resources
+C:\Users\sinan\OneDrive\Masaüstü\proje-is-plani-otomasyon\is_takip_programi\is_takip_programi\obj\Debug\is_takip_programi.CalisandanGelenBildirim.resources
+C:\Users\sinan\OneDrive\Masaüstü\proje-is-plani-otomasyon\is_takip_programi\is_takip_programi\obj\Debug\is_takip_programi.C_Tamamlananİsler.resources
+C:\Users\sinan\OneDrive\Masaüstü\proje-is-plani-otomasyon\is_takip_programi\is_takip_programi\obj\Debug\is_takip_programi.DevamEdenİsler.resources

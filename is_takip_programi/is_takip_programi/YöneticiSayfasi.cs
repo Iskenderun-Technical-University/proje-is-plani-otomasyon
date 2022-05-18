@@ -28,5 +28,12 @@ namespace is_takip_programi
             MüsteriEkle yeni = new MüsteriEkle();
             yeni.Show();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            CalisandanGelenBildirim yeni = new CalisandanGelenBildirim();
+            yeni.Show();
+           
+        }
     }
 }
