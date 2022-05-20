@@ -108,6 +108,18 @@
     <Compile Include="YoneticiyeGeriBildirim.Designer.cs">
       <DependentUpon>YoneticiyeGeriBildirim.cs</DependentUpon>
     </Compile>
+    <Compile Include="Y_DevamEdenİsler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Y_DevamEdenİsler.Designer.cs">
+      <DependentUpon>Y_DevamEdenİsler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Y_Tamamlananİsler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Y_Tamamlananİsler.Designer.cs">
+      <DependentUpon>Y_Tamamlananİsler.cs</DependentUpon>
+    </Compile>
     <Compile Include="YöneticiSayfasi.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -153,6 +165,12 @@
     </Compile>
     <EmbeddedResource Include="YoneticiyeGeriBildirim.resx">
       <DependentUpon>YoneticiyeGeriBildirim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Y_DevamEdenİsler.resx">
+      <DependentUpon>Y_DevamEdenİsler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Y_Tamamlananİsler.resx">
+      <DependentUpon>Y_Tamamlananİsler.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="YöneticiSayfasi.resx">
       <DependentUpon>YöneticiSayfasi.cs</DependentUpon>

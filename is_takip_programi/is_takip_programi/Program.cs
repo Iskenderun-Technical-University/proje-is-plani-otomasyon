@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace is_takip_programi
 {
-    static class Program
+    static class Programs
     {
         /// <summary>
         /// Uygulamanın ana girdi noktası.

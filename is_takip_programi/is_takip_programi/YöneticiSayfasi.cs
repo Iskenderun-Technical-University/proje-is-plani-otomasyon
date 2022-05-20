@@ -35,5 +35,17 @@ namespace is_takip_programi
             yeni.Show();
            
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Y_Tamamlananİsler yeni = new Y_Tamamlananİsler();
+            yeni.Show();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Y_DevamEdenİsler yeni = new Y_DevamEdenİsler();
+            yeni.Show();
+        }
     }
 }
