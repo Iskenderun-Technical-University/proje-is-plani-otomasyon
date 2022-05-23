@@ -30,13 +30,14 @@ namespace is_takip_programi
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
+            this.button5 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.label1 = new System.Windows.Forms.Label();
-            this.button5 = new System.Windows.Forms.Button();
+            this.Görüntüle = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
@@ -54,6 +55,20 @@ namespace is_takip_programi
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(771, 81);
             this.panel1.TabIndex = 1;
+            // 
+            // button5
+            // 
+            this.button5.BackColor = System.Drawing.Color.Black;
+            this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button5.ForeColor = System.Drawing.Color.White;
+            this.button5.Location = new System.Drawing.Point(617, 21);
+            this.button5.Margin = new System.Windows.Forms.Padding(2);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(115, 40);
+            this.button5.TabIndex = 6;
+            this.button5.Text = "Müşteri Bilgileri";
+            this.button5.UseVisualStyleBackColor = false;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // button4
             // 
@@ -119,7 +134,7 @@ namespace is_takip_programi
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(481, 176);
+            this.dataGridView1.Size = new System.Drawing.Size(626, 295);
             this.dataGridView1.TabIndex = 2;
             // 
             // label1
@@ -135,25 +150,22 @@ namespace is_takip_programi
             this.label1.TabIndex = 3;
             this.label1.Text = "Yöneticiden Gelen İşler";
             // 
-            // button5
+            // Görüntüle
             // 
-            this.button5.BackColor = System.Drawing.Color.Black;
-            this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button5.ForeColor = System.Drawing.Color.White;
-            this.button5.Location = new System.Drawing.Point(617, 21);
-            this.button5.Margin = new System.Windows.Forms.Padding(2);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(115, 40);
-            this.button5.TabIndex = 6;
-            this.button5.Text = "Müşteri Bilgileri";
-            this.button5.UseVisualStyleBackColor = false;
-            this.button5.Click += new System.EventHandler(this.button5_Click);
+            this.Görüntüle.Location = new System.Drawing.Point(672, 146);
+            this.Görüntüle.Name = "Görüntüle";
+            this.Görüntüle.Size = new System.Drawing.Size(75, 23);
+            this.Görüntüle.TabIndex = 4;
+            this.Görüntüle.Text = "button6";
+            this.Görüntüle.UseVisualStyleBackColor = true;
+            this.Görüntüle.Click += new System.EventHandler(this.Görüntüle_Click);
             // 
             // CalisanSayfasi
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(772, 470);
+            this.Controls.Add(this.Görüntüle);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.panel1);
@@ -180,5 +192,6 @@ namespace is_takip_programi
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button5;
+        private System.Windows.Forms.Button Görüntüle;
     }
 }
