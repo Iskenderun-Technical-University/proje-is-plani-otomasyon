@@ -23,10 +23,5 @@ namespace is_takip_programi
         {
 
         }
-        public bool Girisİslemi(string kullanici, string sifre, int yetki)
-        {
-            
-           
-        }
     }
 }

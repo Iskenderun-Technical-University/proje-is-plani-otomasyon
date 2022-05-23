@@ -16,7 +16,7 @@ namespace is_takip_programi
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new GirisEkrani());
+            Application.Run(new YöneticiSayfasi());
         }
     }
 }
