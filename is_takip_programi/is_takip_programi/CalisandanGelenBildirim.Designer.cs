@@ -31,6 +31,7 @@ namespace is_takip_programi
         {
             this.label1 = new System.Windows.Forms.Label();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.Görüntüle = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -48,12 +49,25 @@ namespace is_takip_programi
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(88, 133);
+            this.dataGridView1.Location = new System.Drawing.Point(29, 138);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 24;
             this.dataGridView1.Size = new System.Drawing.Size(734, 307);
             this.dataGridView1.TabIndex = 4;
+            // 
+            // Görüntüle
+            // 
+            this.Görüntüle.BackColor = System.Drawing.Color.Black;
+            this.Görüntüle.ForeColor = System.Drawing.Color.Transparent;
+            this.Görüntüle.Location = new System.Drawing.Point(778, 154);
+            this.Görüntüle.Margin = new System.Windows.Forms.Padding(4);
+            this.Görüntüle.Name = "Görüntüle";
+            this.Görüntüle.Size = new System.Drawing.Size(120, 53);
+            this.Görüntüle.TabIndex = 6;
+            this.Görüntüle.Text = "Görüntüle";
+            this.Görüntüle.UseVisualStyleBackColor = false;
+            this.Görüntüle.Click += new System.EventHandler(this.Görüntüle_Click);
             // 
             // CalisandanGelenBildirim
             // 
@@ -61,6 +75,7 @@ namespace is_takip_programi
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Gray;
             this.ClientSize = new System.Drawing.Size(911, 517);
+            this.Controls.Add(this.Görüntüle);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.dataGridView1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
@@ -79,5 +94,6 @@ namespace is_takip_programi
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.Button Görüntüle;
     }
 }

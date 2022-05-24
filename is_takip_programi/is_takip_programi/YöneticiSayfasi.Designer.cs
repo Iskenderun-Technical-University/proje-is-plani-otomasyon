@@ -75,7 +75,7 @@ namespace is_takip_programi
             this.button1.ForeColor = System.Drawing.Color.White;
             this.button1.Location = new System.Drawing.Point(80, 26);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(133, 49);
+            this.button1.Size = new System.Drawing.Size(133, 55);
             this.button1.TabIndex = 2;
             this.button1.Text = "Çalışan Ekle";
             this.button1.UseVisualStyleBackColor = false;
@@ -101,7 +101,7 @@ namespace is_takip_programi
             this.button5.ForeColor = System.Drawing.Color.White;
             this.button5.Location = new System.Drawing.Point(837, 26);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(163, 49);
+            this.button5.Size = new System.Drawing.Size(163, 55);
             this.button5.TabIndex = 6;
             this.button5.Text = "Devam İşler";
             this.button5.UseVisualStyleBackColor = false;
@@ -114,7 +114,7 @@ namespace is_takip_programi
             this.button4.ForeColor = System.Drawing.Color.White;
             this.button4.Location = new System.Drawing.Point(650, 26);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(163, 49);
+            this.button4.Size = new System.Drawing.Size(163, 55);
             this.button4.TabIndex = 5;
             this.button4.Text = "Tamamlanan İşler";
             this.button4.UseVisualStyleBackColor = false;
@@ -125,9 +125,9 @@ namespace is_takip_programi
             this.button3.BackColor = System.Drawing.Color.Black;
             this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.ForeColor = System.Drawing.Color.White;
-            this.button3.Location = new System.Drawing.Point(448, 26);
+            this.button3.Location = new System.Drawing.Point(437, 26);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(163, 49);
+            this.button3.Size = new System.Drawing.Size(196, 55);
             this.button3.TabIndex = 4;
             this.button3.Text = "Çalışanlardan gelen iş Bildirimleri";
             this.button3.UseVisualStyleBackColor = false;
@@ -140,7 +140,7 @@ namespace is_takip_programi
             this.button2.ForeColor = System.Drawing.Color.White;
             this.button2.Location = new System.Drawing.Point(264, 26);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(133, 49);
+            this.button2.Size = new System.Drawing.Size(133, 55);
             this.button2.TabIndex = 3;
             this.button2.Text = "Müşteri Ekle";
             this.button2.UseVisualStyleBackColor = false;
