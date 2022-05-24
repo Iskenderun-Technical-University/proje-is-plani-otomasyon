@@ -52,6 +52,7 @@ namespace is_takip_programi
             this.Gönder.TabIndex = 7;
             this.Gönder.Text = "Gönder";
             this.Gönder.UseVisualStyleBackColor = false;
+            this.Gönder.Click += new System.EventHandler(this.Gönder_Click);
             // 
             // label6
             // 
