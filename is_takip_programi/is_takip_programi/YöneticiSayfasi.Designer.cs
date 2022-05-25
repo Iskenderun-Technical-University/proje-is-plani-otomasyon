@@ -125,7 +125,7 @@ namespace is_takip_programi
             this.button3.BackColor = System.Drawing.Color.Black;
             this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.ForeColor = System.Drawing.Color.White;
-            this.button3.Location = new System.Drawing.Point(437, 26);
+            this.button3.Location = new System.Drawing.Point(428, 26);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(196, 55);
             this.button3.TabIndex = 4;
