@@ -19,7 +19,7 @@ namespace is_takip_programi
         }
         SqlConnection con;
         SqlCommand cmd;
-        public static string SqlCon = @"Data Source=LAPTOP-OH6U8HKF\SQL;Initial Catalog=HaliSaha;Integrated Security=True";
+        public static string SqlCon = @"Data Source=LAPTOP-OH6U8HKF\SQL;Initial Catalog=IsTakip;Integrated Security=True";
 
         private void button1_Click(object sender, EventArgs e)
         {
