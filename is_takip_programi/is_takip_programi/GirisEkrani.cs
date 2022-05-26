@@ -20,6 +20,8 @@ namespace is_takip_programi
         static SqlDataAdapter da;
         static DataSet ds;
         public static string SqlCon = @"Data Source=LAPTOP-RBI3N3HS\SQLEXPRESS;Initial Catalog=IsTakip;Integrated Security=True";
+
+        public static string kullanicimsession = "";
         public GirisEkrani()
         {
             InitializeComponent();
@@ -46,6 +48,7 @@ namespace is_takip_programi
                     {
                         if (Girisİslemi(kullanici.Text, sifre.Text, Convert.ToInt32(yetki.Text)))
                         {
+                            kullanicimsession = kullanici.Text;
                             YöneticiSayfasi yeni = new YöneticiSayfasi();
                             yeni.Show();
                         }
@@ -58,7 +61,9 @@ namespace is_takip_programi
                     {
                         if (Girisİslemi(kullanici.Text, sifre.Text, Convert.ToInt32(yetki.Text)))
                         {
-                            MessageBox.Show("calisan");
+                            kullanicimsession = kullanici.Text;
+                            CalisanSayfasi yeni = new CalisanSayfasi();
+                            yeni.Show();
                         }
                         else
                         {
@@ -81,7 +86,7 @@ namespace is_takip_programi
 
         public bool Girisİslemi(string kullanici, string sifre, int yetki)
         {
-            string sqlsorgu = "select * from Giris where Kullanici_Adi=@kullanici and Sifre=@sifre and Yetki=@yetki";
+            string sqlsorgu = "select * from Personel where KullaniciAdi=@kullanici and sifre=@sifre and Yetki=@yetki";
             con = new SqlConnection(SqlCon);
             cmd = new SqlCommand(sqlsorgu, con);
             cmd.Parameters.AddWithValue("@kullanici", kullanici);
