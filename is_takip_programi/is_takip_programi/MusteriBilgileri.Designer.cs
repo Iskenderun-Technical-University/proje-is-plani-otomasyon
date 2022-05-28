@@ -69,6 +69,7 @@ namespace is_takip_programi
             this.Name = "MusteriBilgileri";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "MusteriBilgileri";
+            this.Load += new System.EventHandler(this.MusteriBilgileri_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
